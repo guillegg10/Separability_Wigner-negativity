@@ -1,1 +1,1 @@
-Source code, data, and figures supporting the findings in https://arxiv.org/abs/2502.05658 , including the compuatation of the separability criteria for fermionic systems, and Wigner negativity for bosonic systems.
+Source code, data, and figures supporting the findings in https://arxiv.org/abs/2502.05658 , including the computation of the separability criteria for fermionic systems, and Wigner negativity for bosonic systems.
